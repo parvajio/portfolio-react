@@ -2,6 +2,7 @@ import pro1 from "/images/diagno-d.png"
 import pro2 from "/images/alterno.jpeg"
 import pro3 from "/images/rento.jpeg"
 import pro4 from "/images/touro.jpeg"
+import librify from "/images/librify.png"
 import ProjectCard from './ProjectCard'
 
 
@@ -11,7 +12,7 @@ const Projects = () => {
         {
             id: 5,
             title: "Librify",
-            img: pro2, // Replace with the actual image variable or path
+            img: librify, // Replace with the actual image variable or path
             description: "Librify is a modern and comprehensive University Library Management System designed to streamline book borrowing, user management, and library operations. It features advanced search and filtering, real-time availability tracking, automated email notifications, and an intuitive admin dashboard for efficient library management.",
             shortDescription: "Librify is a next-gen library management system with advanced search, real-time tracking, automated notifications, and an admin dashboard for seamless library operations.",
             link: "https://librify-library.web.app/", // Replace with your live demo link
