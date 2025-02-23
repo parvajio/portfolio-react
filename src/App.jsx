@@ -77,17 +77,12 @@ function App() {
       </div>
 
 
-<<<<<<< HEAD
       <div className='absolute top-3 rellax right-36' data-rellax-speed="-5" data-rellax-zindex="5">
         <img className="w-20 opacity-30" src={graph1} alt="" />
-=======
-      {/* <div className='absolute top-3 rellax right-36' data-rellax-speed="-5" data-rellax-zindex="5">
-        <img className="w-36 opacity-30" src={graph1} alt="" />
->>>>>>> e1f085c0904da5f84f3a00a04c0c764a2d2aff50
       </div>
       <div className='absolute top-3 rellax right-36' data-rellax-speed="-5" data-rellax-zindex="20">
         <img className="opacity-25" src={graph3} alt="" />
-      </div> */}
+      </div> 
 
 
       <div className="pt-20 mx-5 lg:mx-0" id="about">
